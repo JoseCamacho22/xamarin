@@ -1,0 +1,11 @@
+/Users/admin/Projects/xamarin/ListadeCompras/ListadeCompras/bin/iPhoneSimulator/Debug/ListadeCompras.exe
+/Users/admin/Projects/xamarin/ListadeCompras/ListadeCompras/bin/iPhoneSimulator/Debug/ListadeCompras.pdb
+/Users/admin/Projects/xamarin/ListadeCompras/ListadeCompras/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/xamarin/ListadeCompras/ListadeCompras/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/actool/_PartialAppManifest.items
+/Users/admin/Projects/xamarin/ListadeCompras/ListadeCompras/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/xamarin/ListadeCompras/ListadeCompras/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/coremlc/_PartialAppManifest.items
+/Users/admin/Projects/xamarin/ListadeCompras/ListadeCompras/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/xamarin/ListadeCompras/ListadeCompras/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/optimized/
+/Users/admin/Projects/xamarin/ListadeCompras/ListadeCompras/obj/iPhoneSimulator/Debug/ListadeCompras.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/xamarin/ListadeCompras/ListadeCompras/obj/iPhoneSimulator/Debug/ListadeCompras.exe
+/Users/admin/Projects/xamarin/ListadeCompras/ListadeCompras/obj/iPhoneSimulator/Debug/ListadeCompras.pdb
