@@ -1,0 +1,11 @@
+/Users/admin/Projects/xamarin/Prueba1/bin/iPhone/Debug/Prueba1.exe
+/Users/admin/Projects/xamarin/Prueba1/bin/iPhone/Debug/Prueba1.pdb
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/coremlc/_PartialAppManifest.items
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/optimized/
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/Prueba1.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/Prueba1.exe
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/Prueba1.pdb

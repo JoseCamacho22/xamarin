@@ -85,6 +85,8 @@
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\Image.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\Image.imageset\14_xamarin-logo1_%281%29.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />

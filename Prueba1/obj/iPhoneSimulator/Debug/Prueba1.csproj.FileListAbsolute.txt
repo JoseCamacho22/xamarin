@@ -9,3 +9,14 @@
 /Users/admin/Projects/Prueba1/Prueba1/obj/iPhoneSimulator/Debug/Prueba1.csproj.CoreCompileInputs.cache
 /Users/admin/Projects/Prueba1/Prueba1/obj/iPhoneSimulator/Debug/Prueba1.exe
 /Users/admin/Projects/Prueba1/Prueba1/obj/iPhoneSimulator/Debug/Prueba1.pdb
+/Users/admin/Projects/xamarin/Prueba1/bin/iPhoneSimulator/Debug/Prueba1.exe
+/Users/admin/Projects/xamarin/Prueba1/bin/iPhoneSimulator/Debug/Prueba1.pdb
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhoneSimulator/Debug/Prueba1.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhoneSimulator/Debug/Prueba1.exe
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhoneSimulator/Debug/Prueba1.pdb
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/actool/_PartialAppManifest.items
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/coremlc/_PartialAppManifest.items
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/xamarin/Prueba1/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/optimized/

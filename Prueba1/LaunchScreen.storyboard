@@ -24,4 +24,7 @@
             <point key="canvasLocation" x="53" y="375"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="Image" width="800" height="336"/>
+    </resources>
 </document>

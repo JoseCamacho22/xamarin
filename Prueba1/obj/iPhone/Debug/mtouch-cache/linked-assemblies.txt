@@ -1,0 +1,4 @@
+/Users/admin/Projects/xamarin/Prueba1/bin/iPhone/Debug/Prueba1.app:/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/mtouch-cache/Link/Prueba1.exe
+/Users/admin/Projects/xamarin/Prueba1/bin/iPhone/Debug/Prueba1.app:/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/admin/Projects/xamarin/Prueba1/bin/iPhone/Debug/Prueba1.app:/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/admin/Projects/xamarin/Prueba1/bin/iPhone/Debug/Prueba1.app:/Users/admin/Projects/xamarin/Prueba1/obj/iPhone/Debug/mtouch-cache/Link/System.dll

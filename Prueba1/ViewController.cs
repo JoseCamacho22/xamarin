@@ -23,5 +23,10 @@ namespace Prueba1
             // Release any cached data, images, etc that aren't in use.
 
         }
+
+        partial void btnSaludo(UIButton sender)
+        {
+            lblSaludo.Text = txtNombre.Text + " " + txtApellido.Text;
+        }
     }
 }
