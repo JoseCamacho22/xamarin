@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{557B72B3-D6BF-44BA-AE9C-1BEA55F3CD67}|Default">
+  <MonoDevelop.Ide.ItemProperties.Miscursos PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CAF3EA30-CEEF-49A5-8BA1-AAA405840A89" automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Miscursos/Main.cs">
+    <Files>
+      <File FileName="Miscursos/Main.storyboard" />
+      <File FileName="Miscursos/Coursecell.cs" Line="35" Column="9" />
+      <File FileName="Miscursos/CourseData.cs" Line="26" Column="33" />
+      <File FileName="Miscursos/ViewDetalle.cs" Line="12" Column="64" />
+      <File FileName="Miscursos/Main.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

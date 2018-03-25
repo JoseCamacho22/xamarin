@@ -1,0 +1,13 @@
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/bin/iPhone/Release/Miscursos.exe
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/bin/iPhone/Release/Miscursos.pdb
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/bin/iPhone/Release/Newtonsoft.Json.dll
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/bin/iPhone/Release/Newtonsoft.Json.xml
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/obj/iPhone/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/obj/iPhone/Release/actool/_PartialAppManifest.items
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/obj/iPhone/Release/coremlc/_PartialAppManifest.items
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/obj/iPhone/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/obj/iPhone/Release/optimized/
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/obj/iPhone/Release/Miscursos.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/obj/iPhone/Release/Miscursos.exe
+/Users/admin/Projects/xamarin/Miscursos/Miscursos/obj/iPhone/Release/Miscursos.pdb

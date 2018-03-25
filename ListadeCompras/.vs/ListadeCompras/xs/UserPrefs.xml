@@ -1,13 +1,11 @@
 ﻿<Properties StartupConfiguration="{E2BE8F8F-87AD-4247-BD91-5EEA50B0DA5C}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListadeCompras/ViewController.cs">
     <Files>
-      <File FileName="ListadeCompras/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="ListadeCompras/Main.storyboard" />
-      <File FileName="ListadeCompras/ViewController.cs" Line="55" Column="4" />
-      <File FileName="ListadeCompras/ProductoTableViewController.cs" Line="40" Column="28" />
-      <File FileName="ListadeCompras/MyDataSource.cs" Line="1" Column="1" />
+      <File FileName="ListadeCompras/ViewController.cs" Line="1" Column="1" />
       <File FileName="ListadeCompras/LaunchScreen.storyboard" />
-      <File FileName="ListadeCompras/Info.plist" />
+      <File FileName="ListadeCompras/Main.cs" Line="1" Column="1" />
+      <File FileName="ListadeCompras/ProductoTableViewController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -16,7 +14,7 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ListadeCompras PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CAF3EA30-CEEF-49A5-8BA1-AAA405840A89" automaticSigning="True">
+  <MonoDevelop.Ide.ItemProperties.ListadeCompras PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9B6F06FF-5373-4952-9F2E-6931FCB0CBBD" automaticSigning="True">
     <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="XYSMZ88SZ7" TeamId="2392939A32" />
   </MonoDevelop.Ide.ItemProperties.ListadeCompras>
 </Properties>
